@@ -28,9 +28,15 @@ Your project should shine. To help your vision come across clearly, you should c
 
 - A `README.md` file with a description of the application
 - A _Blog Post_ telling the story behind the application, challenges you overcame, and what you learned
-- A 2-4 minute _Video Demo_ walking through the features of your application
+- A 1-2 minute _Video Demo_ walking through the features of your application
 
 The audience should be the technically-minded outsider that stumbles on your project. Do not expect that they will have any of the context behind your project - you need to tell them that context. Focus on telling them the story of your application. What problem does it solve? How do the features come together to solve that problem? Why did you decide to build it?
+
+### <a id="example-projects"></a>Example Videos & Blogs
+
+- *Wine and Dine* | [Video](https://drive.google.com/file/d/1C_Tsh-oi7BWLfGE6izajtJ0MnVYBRu0S/view) | [Blog](https://jenniferbusca.github.io/javascript_rails_api_project_oo_javascript)
+- *Trading App* | [Video](https://www.youtube.com/watch?v=IR5Dp7zgspQ&t=14s) | [Blog](https://bo1623.github.io/rails_and_javascript_project_-_trading_app)
+
 
 ## Guidelines for working solo
 
