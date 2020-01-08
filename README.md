@@ -36,9 +36,9 @@ In order to schedule your Project Review, you must submit:
 - A **Blog Post** about your application
 - A 2-4 minute **Video Demo** introducing your application
 
-Read below for more details about the technical requirements for your project. See the section "Communicating About Your Project" in the [Project Planning and Tips](project-planning-tips.md) document for more guidance on communicating about your project.
+Read below for more details about the technical requirements for your project. See the section "Communicating About Your Project" in the [Project Planning and Tips](https://github.com/learn-co-curriculum/js-spa-project-instructions/blob/master/project-planning-tips.md) document for more guidance on communicating about your project.
 
-As always, your project must be your own work. For more details about the rules of the road, see [Project Rules of the Road](/project-rules-of-the-road.md).
+As always, your project must be your own work. For more details about the rules of the road, see [Project Rules of the Road](https://github.com/learn-co-curriculum/js-spa-project-instructions/blob/master/project-rules-of-the-road.md).
 
 ## <a id="technical-and-complexity-requirements"></a>Technical and Complexity Requirements
 
@@ -98,7 +98,7 @@ For more about setting up your backend, you can reference the lesson on [Creatin
 
 ## <a id="what-to-expect-in-your-project-review"></a>What To Expect In Your Project Review
 
-Review the [What to Expect in Project Reviews](/what-to-expect-in-project-reviews.md) document for general guidance on what to expect in the Project Review.
+Review the [What to Expect in Project Reviews](https://github.com/learn-co-curriculum/js-spa-project-instructions/blob/master/what-to-expect-in-project-reviews.md) document for general guidance on what to expect in the Project Review.
 
 ### What should you be prepared for in Project Review?
 
