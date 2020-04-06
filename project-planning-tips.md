@@ -4,17 +4,7 @@ Unlike labs, projects do not have the guardrails of a README and tests to struct
 
 ## Project Support
 
-As you complete the labs leading up to the project, you should receive an email from the Section Coach about scheduling a Project Planning Meeting. 
-
-In your Project Planning Meeting, you and your coach will discuss topics like
-- The basic story of your application
-- The core features you are planning to build
-- Your data models and their relationships
-- Challenges you expect to face
-
-If you do not receive an email, and have checked your spam folder, please reach out to the Section Coach by slack or email. If reaching out by slack, please include your email address in your message.
-
-After the Project Planning Meeting, there are a few ways for you to find support with your project as you build:
+There are a few ways for you to find support with your project as you build:
 
 - Attend weekly Study Groups and Project Office Hours listed on the Study Groups tab in your learn.co account. See upcoming study groups at [Learn.co Study Groups](https://learn.co/study-groups). Office Hours and topic-specific Study Groups are the best place to leverage technical support from your instructors and fellow students!
 - Participate in the slack channel to discuss project concepts and questions.
